@@ -97,7 +97,7 @@ Teaching data analysis in the reproducible paradigm means being able to provide 
 
 A 2013 Nature editorial has urged researchers to do whatever they can to improve research reproducibility. As statistics educators, we are the members of the scientific community that are most well-suited to, and responsible for, addressing this challenge. The introductory statistics course is a perfect candidate for when we should be instilling best practices in scientists-in-training as they are first introduced to data analysis tools in this course. Providing the students with the tools to do and present reproducible data analysis before teaching them rigorous methods highlights the importance of this issue, and with appropriate support mechanisms, introductory statistics students are receptive to its adoption.
 
-**Note:** You can access a version of this article produced in R Markdown at http://rpubs.com/mine/21414 and the source files at https://github.com/andrewpbray/chanceReproducibility.
+**Note:** You can access a version of this article produced in R Markdown at http://rpubs.com/mine/21454 and the source files at http://github.com/mine-cetinkaya-rundel/chanceReproducibility.
 
 **Further reading:**
 
